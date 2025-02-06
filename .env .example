@@ -1,0 +1,3 @@
+DATABASE_URL="URL da base de dados"
+
+JWT_SECRET="Chave secreta"
